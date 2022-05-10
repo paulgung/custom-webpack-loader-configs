@@ -1,6 +1,8 @@
-# webapp
+# Webpack configrations 
 
-> A Vue.js project
+> Webpack configrations are in /basic-configration, 
+> Loaders are in /build/loaders
+
 
 ## Build Setup
 
