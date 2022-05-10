@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url("./assets/myttf.ttf") format('truetype');
+}
+
+.icon{
+    font-family: iconfont;
+    font-size: 30px;
+}
+.myClass{
+    color: aqua;
+    font-size: 40px;
+}
+.myClass-bg{
+    background: url("./assets/2.jpg");
+}
